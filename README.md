@@ -6,7 +6,7 @@ Initial credit of the application goes to Guillaume Collet( https://github.com/g
 
 Prerequisites -
 	Biopython Library, 
-	Mstatx.exe (can be found in the source file)
+	Mstatx.exe (can be found in the project)
 
 Run example - python mstatx_test.py
 
